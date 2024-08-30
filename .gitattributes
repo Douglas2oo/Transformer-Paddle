@@ -1,1 +1,2 @@
 data/train.csv filter=lfs diff=lfs merge=lfs -text
+transformer_weights/epoch_3_valid_acc_68.9_transformer_weights.bin filter=lfs diff=lfs merge=lfs -text
